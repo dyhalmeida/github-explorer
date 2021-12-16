@@ -1,5 +1,3 @@
 import React from 'react';
+import { App } from './App';
 
-function app() {
-  return <h1>Olá Mundo</h1>;
-}
